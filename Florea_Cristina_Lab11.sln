@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35521.163 d17.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebAPI", "WebAPI\WebAPI.csproj", "{DED386C9-B4EC-4789-9878-DE768ADC7690}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Florea_Cristina_Lab11", "Florea_Cristina_Lab11\Florea_Cristina_Lab11.csproj", "{567F945D-3BC7-4DC3-8765-EF3A25EC575E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DED386C9-B4EC-4789-9878-DE768ADC7690}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DED386C9-B4EC-4789-9878-DE768ADC7690}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DED386C9-B4EC-4789-9878-DE768ADC7690}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DED386C9-B4EC-4789-9878-DE768ADC7690}.Release|Any CPU.Build.0 = Release|Any CPU
+		{567F945D-3BC7-4DC3-8765-EF3A25EC575E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{567F945D-3BC7-4DC3-8765-EF3A25EC575E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{567F945D-3BC7-4DC3-8765-EF3A25EC575E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{567F945D-3BC7-4DC3-8765-EF3A25EC575E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
